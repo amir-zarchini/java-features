@@ -1,4 +1,4 @@
-package com.company;
+package com.company.socket;
 
 import java.io.BufferedReader;
 import java.io.DataInputStream;
