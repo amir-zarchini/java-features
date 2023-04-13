@@ -30,7 +30,7 @@ COLLECTION در جاوا
 | -------------------------------------- | ------------------------------------------------------------------ |
 | public boolean add(Object element)     | collection درج عنصر در  |
 | public boolean addAll(Collection c)    | در آن درج می شود collection c این متد را صدا بزند تمام عناصر موجود در collection اگر یک  |
-| public boolean remove(Object element)  |  |
+| public boolean remove(Object element)  | collection برای حذف کردن یک عنصر از   |
 | public boolean removeAll(Collection c) |  |
   
 </div>
