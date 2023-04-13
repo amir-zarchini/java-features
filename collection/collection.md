@@ -12,4 +12,8 @@ Set, List, Queue, Deque,…
 class های collection :
 <br>
 ArrayList, Vector, LinkedList, PriorityQueue, HashSet, LinkedHashSet, TreeSet ,…
+
+![collection picture](images/collection-1.png)
+  
+
 </p>
